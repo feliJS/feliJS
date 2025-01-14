@@ -2,7 +2,7 @@
 
 <h3 align="left">Hello! my name is Felicia and im currently studying front end🎅</h3></h1> 
 <p>📍 Sweden</p>
-<p>🙌 I have been programming for <code>2 years</code></p>
+<p>🙌 I have been programming for <code>3 years</code></p>
 <p>❤️ I’m currently loving: Javascript</p>
 <p>🌱 I want to learn: More about back end</p>
 <p>⚡ Fun fact: I love dr pepper</p>
