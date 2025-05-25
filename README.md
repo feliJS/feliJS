@@ -9,10 +9,14 @@
       <p>🌱 I want to learn: More about cyber security</p>
     </td>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felijs&show_icons=true&locale=en&layout=compact" alt="felijs" /></p>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felijs&show_icons=true&locale=en&layout=compact" alt="felijs" width="300" />
+      </p>
     </td>
   </tr>
 </table>
+
+<h1>Things that I can do 🌸</h1>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
