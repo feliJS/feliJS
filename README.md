@@ -1,9 +1,9 @@
-<img src="spring.png">
+<img src="summer.png">
 
 <table align="center">
   <tr>
     <td>
-      <h3>Hello! my name is Felicia and I'm currently studying front end🌷</h3>
+      <h3>Hello! my name is Felicia and I'm currently studying front end ⛱️</h3>
       <p>🙌 I have been programming for <code>3 years</code></p>
       <p>❤️ I’m currently loving: Front end/Back end</p>
       <p>🌱 I want to learn: More about cyber security</p>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<p align="center"> 
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
