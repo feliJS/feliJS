@@ -6,7 +6,7 @@
       <h3>Hello! my name is Felicia and I'm currently studying front end ⛱️</h3>
       <p>🙌 I have been programming for <code>3 years</code></p>
       <p>❤️ I’m currently loving: Front end/Back end</p>
-      <p>🌱 I want to learn: More about cyber security</p>
+      <p>🌱 I want to learn: More about Backend</p>
     </td>
     <td>
       <p>
