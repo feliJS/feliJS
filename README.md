@@ -8,11 +8,13 @@
       <p>❤️ I’m currently loving: Javascript</p>
       <p>🌱 I want to learn: More about Backend</p>
     </td>
+    <!--
     <td>
       <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felijs&show_icons=true&locale=en&layout=compact" alt="felijs" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felijs&show_icons=true&locale=en&layout=compact" alt="felijs" width="300" /> 
       </p>
     </td>
+    -->
   </tr>
 </table>
 <!--
