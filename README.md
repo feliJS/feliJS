@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <h3>Hello! my name is Felicia and I'm currently studying front end ⛱️</h3>
+      <h3>Hello! my name is Felicia and I'm currently studying Fullstack ⛱️</h3>
       <p>🙌 I have been programming for <code>4 years</code></p>
       <p>❤️ I’m currently loving: Javascript</p>
       <p>🌱 I want to learn: Backend, Game dev and AI!</p>
