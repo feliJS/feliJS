@@ -8,13 +8,13 @@
       <p>❤️ I’m currently loving: Javascript</p>
       <p>🌱 I want to learn: Backend, Game dev and AI!</p>
     </td>
-    <!--
     <td>
       <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felijs&show_icons=true&locale=en&layout=compact" alt="felijs" width="300" /> 
+        
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliJS&layout=donut&hide_border=true&bg_color=00000000&title_color=9DB891&text_color=919B91" alt="Most used repository languages" />
       </p>
     </td>
-    -->
+  
   </tr>
 </table>
 <!--
